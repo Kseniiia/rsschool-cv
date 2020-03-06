@@ -1,6 +1,6 @@
 1. Malchikova Kseniya
 2. ksenia.malchikova@gmail.com 
-3. 
+3. I have a goal to be good in iOS Development, that’s why I am ready to spend time and put efforts to achieve that
 4. Technical skills
     OS: Windows, Mac OS, iOS
     Languages: C++, HTML/CSS/JavaScript, Java
